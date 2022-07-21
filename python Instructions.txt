@@ -1,0 +1,7 @@
+installation:
+    If python on your system is distro installed, then install python3-pip then which is not installed
+    by you distro
+self:
+    self is just a calling object passed when calling the function and we use it to specify passed
+    object's fuctions
+self

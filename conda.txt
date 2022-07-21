@@ -1,0 +1,5 @@
+basically conda is virtual env manager for python
+    if while creating env conda create --name bc you don't specify python version it will not become virtual 
+    now instead it still operates on root until you use conda install some package with a diff version.
+    so don't use virtual env if you don' need them or if you are not working on some alien project or 
+    multiple projects stick to root or base.
